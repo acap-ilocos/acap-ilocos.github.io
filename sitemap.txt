@@ -1,0 +1,10 @@
+https://acap-ilocos.github.io/
+https://acap-ilocos.github.io/weather-services/
+https://acap-ilocos.github.io/cropping-calendar-v2/
+https://acap-ilocos.github.io/agroclimatic-services/
+https://acap-ilocos.github.io/bulletins/
+https://acap-ilocos.github.io/bulletins/weather/
+https://acap-ilocos.github.io/bulletins/seasonal-outlook/
+https://acap-ilocos.github.io/bulletins/special-weather-forecast/
+https://acap-ilocos.github.io/admin/login/
+https://acap-ilocos.github.io/superadmin/login/
